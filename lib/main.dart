@@ -41,13 +41,13 @@ class _MyAppState extends State<MyApp> {
                   ),
                   Center(
                     child: Text(
-                      '2',
+                      '4',
                       style: TextStyle(fontSize: 25),
                     ),
                   ),
                   Center(
                     child: Text(
-                      '3',
+                      '7',
                       style: TextStyle(fontSize: 25),
                     ),
                   ),
@@ -60,7 +60,7 @@ class _MyAppState extends State<MyApp> {
                 children: [
                   Center(
                     child: Text(
-                      '4',
+                      '2',
                       style: TextStyle(fontSize: 25),
                     ),
                   ),
@@ -72,7 +72,7 @@ class _MyAppState extends State<MyApp> {
                   ),
                   Center(
                     child: Text(
-                      '6',
+                      '8',
                       style: TextStyle(fontSize: 25),
                     ),
                   ),
@@ -85,13 +85,13 @@ class _MyAppState extends State<MyApp> {
                 children: [
                   Center(
                     child: Text(
-                      '7',
+                      '3',
                       style: TextStyle(fontSize: 25),
                     ),
                   ),
                   Center(
                     child: Text(
-                      '8',
+                      '6',
                       style: TextStyle(fontSize: 25),
                     ),
                   ),
